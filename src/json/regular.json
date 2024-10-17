@@ -1,0 +1,585 @@
+[
+  {
+    "english": "accept",
+    "spanish": "aceptar"
+  },
+  {
+    "english": "embarrass",
+    "spanish": "avergonzar"
+  },
+  {
+    "english": "learn",
+    "spanish": "aprender"
+  },
+  {
+    "english": "admire",
+    "spanish": "admirar"
+  },
+  {
+    "english": "employ",
+    "spanish": "emplear"
+  },
+  {
+    "english": "lie",
+    "spanish": "mentir"
+  },
+  {
+    "english": "admit",
+    "spanish": "admitir"
+  },
+  {
+    "english": "encourage",
+    "spanish": "animar"
+  },
+  {
+    "english": "like",
+    "spanish": "gustar"
+  },
+  {
+    "english": "agree",
+    "spanish": "estar de acuerdo"
+  },
+  {
+    "english": "end",
+    "spanish": "finalizar"
+  },
+  {
+    "english": "listen",
+    "spanish": "escuchar"
+  },
+  {
+    "english": "allow",
+    "spanish": "permitir"
+  },
+  {
+    "english": "enter",
+    "spanish": "entrar"
+  },
+  {
+    "english": "live",
+    "spanish": "vivir"
+  },
+  {
+    "english": "answer",
+    "spanish": "responder"
+  },
+  {
+    "english": "escape",
+    "spanish": "escapar"
+  },
+  {
+    "english": "look",
+    "spanish": "mirar"
+  },
+  {
+    "english": "appear",
+    "spanish": "aparecer"
+  },
+  {
+    "english": "explain",
+    "spanish": "explicar"
+  },
+  {
+    "english": "love",
+    "spanish": "amar"
+  },
+  {
+    "english": "apply",
+    "spanish": "aplicar"
+  },
+  {
+    "english": "examine",
+    "spanish": "examinar"
+  },
+  {
+    "english": "memorize",
+    "spanish": "memorizar"
+  },
+  {
+    "english": "arrange",
+    "spanish": "arreglar"
+  },
+  {
+    "english": "excuse",
+    "spanish": "disculpar"
+  },
+  {
+    "english": "mention",
+    "spanish": "mencionar"
+  },
+  {
+    "english": "arrive",
+    "spanish": "llegar"
+  },
+  {
+    "english": "exercise",
+    "spanish": "ejercitar"
+  },
+  {
+    "english": "move",
+    "spanish": "mover"
+  },
+  {
+    "english": "ask",
+    "spanish": "preguntar"
+  },
+  {
+    "english": "exist",
+    "spanish": "existir"
+  },
+  {
+    "english": "need",
+    "spanish": "necesitar"
+  },
+  {
+    "english": "attack",
+    "spanish": "atacar"
+  },
+  {
+    "english": "expand",
+    "spanish": "expandir"
+  },
+  {
+    "english": "notice",
+    "spanish": "notar"
+  },
+  {
+    "english": "bake",
+    "spanish": "hornear"
+  },
+  {
+    "english": "expect",
+    "spanish": "esperar"
+  },
+  {
+    "english": "offer",
+    "spanish": "ofrecer"
+  },
+  {
+    "english": "beg",
+    "spanish": "rogar"
+  },
+  {
+    "english": "explain",
+    "spanish": "explicar"
+  },
+  {
+    "english": "open",
+    "spanish": "abrir"
+  },
+  {
+    "english": "behave",
+    "spanish": "comportarse"
+  },
+  {
+    "english": "explode",
+    "spanish": "explotar"
+  },
+  {
+    "english": "organize",
+    "spanish": "organizar"
+  },
+  {
+    "english": "believe",
+    "spanish": "creer"
+  },
+  {
+    "english": "fasten",
+    "spanish": "abrocharse"
+  },
+  {
+    "english": "paint",
+    "spanish": "pintar"
+  },
+  {
+    "english": "belong",
+    "spanish": "pertenecer"
+  },
+  {
+    "english": "fear",
+    "spanish": "temer"
+  },
+  {
+    "english": "participate",
+    "spanish": "participar"
+  },
+  {
+    "english": "reserve",
+    "spanish": "reservar"
+  },
+  {
+    "english": "fill",
+    "spanish": "llenar"
+  },
+  {
+    "english": "plan",
+    "spanish": "planear, planificar"
+  },
+  {
+    "english": "borrow",
+    "spanish": "tomar prestado"
+  },
+  {
+    "english": "finish",
+    "spanish": "terminar"
+  },
+  {
+    "english": "play",
+    "spanish": "jugar"
+  },
+  {
+    "english": "breathe",
+    "spanish": "respirar"
+  },
+  {
+    "english": "fire",
+    "spanish": "disparar"
+  },
+  {
+    "english": "practice",
+    "spanish": "practicar"
+  },
+  {
+    "english": "brush",
+    "spanish": "cepillar"
+  },
+  {
+    "english": "fit",
+    "spanish": "quedar, encajar"
+  },
+  {
+    "english": "prepare",
+    "spanish": "preparar"
+  },
+  {
+    "english": "burn",
+    "spanish": "quemar"
+  },
+  {
+    "english": "flow",
+    "spanish": "fluir"
+  },
+  {
+    "english": "produce",
+    "spanish": "producir"
+  },
+  {
+    "english": "calculate",
+    "spanish": "calcular"
+  },
+  {
+    "english": "follow",
+    "spanish": "seguir"
+  },
+  {
+    "english": "promise",
+    "spanish": "prometer"
+  },
+  {
+    "english": "call",
+    "spanish": "llamar"
+  },
+  {
+    "english": "guess",
+    "spanish": "adivinar, suponer"
+  },
+  {
+    "english": "provide",
+    "spanish": "proveer"
+  },
+  {
+    "english": "cancel",
+    "spanish": "cancelar"
+  },
+  {
+    "english": "found",
+    "spanish": "fundar"
+  },
+  {
+    "english": "qualify",
+    "spanish": "cumplir los requisitos"
+  },
+  {
+    "english": "carry",
+    "spanish": "llevar"
+  },
+  {
+    "english": "fry",
+    "spanish": "freír"
+  },
+  {
+    "english": "rain",
+    "spanish": "llover"
+  },
+  {
+    "english": "cause",
+    "spanish": "causar"
+  },
+  {
+    "english": "gather",
+    "spanish": "juntar"
+  },
+  {
+    "english": "realize",
+    "spanish": "darse cuenta"
+  },
+  {
+    "english": "change",
+    "spanish": "cambiar"
+  },
+  {
+    "english": "grab",
+    "spanish": "agarrar"
+  },
+  {
+    "english": "receive",
+    "spanish": "recibir"
+  },
+  {
+    "english": "charge",
+    "spanish": "cobrar"
+  },
+  {
+    "english": "greet",
+    "spanish": "saludar"
+  },
+  {
+    "english": "refuse",
+    "spanish": "rechazar"
+  },
+  {
+    "english": "check",
+    "spanish": "chequear"
+  },
+  {
+    "english": "harm",
+    "spanish": "lastimar"
+  },
+  {
+    "english": "remember",
+    "spanish": "recordar"
+  },
+  {
+    "english": "cheat",
+    "spanish": "engañar"
+  },
+  {
+    "english": "happen",
+    "spanish": "ocurrir"
+  },
+  {
+    "english": "remind",
+    "spanish": "hacer acordar"
+  },
+  {
+    "english": "clean",
+    "spanish": "limpiar"
+  },
+  {
+    "english": "hate",
+    "spanish": "odiar"
+  },
+  {
+    "english": "repeat",
+    "spanish": "repetir"
+  },
+  {
+    "english": "close",
+    "spanish": "cerrar"
+  },
+  {
+    "english": "heal",
+    "spanish": "curar"
+  },
+  {
+    "english": "replace",
+    "spanish": "reemplazar"
+  },
+  {
+    "english": "collect",
+    "spanish": "coleccionar"
+  },
+  {
+    "english": "help",
+    "spanish": "ayudar"
+  },
+  {
+    "english": "reply",
+    "spanish": "responder"
+  },
+
+  { "english": "escape", "spanish": "escapar" },
+  { "english": "look", "spanish": "mirar" },
+  { "english": "appear", "spanish": "aparecer" },
+  { "english": "explain", "spanish": "explicar" },
+  { "english": "love", "spanish": "amar" },
+  { "english": "apply", "spanish": "aplicar" },
+  { "english": "examine", "spanish": "examinar" },
+  { "english": "memorize", "spanish": "memorizar" },
+  { "english": "arrange", "spanish": "arreglar" },
+  { "english": "excuse", "spanish": "disculpar" },
+  { "english": "mention", "spanish": "mencionar" },
+  { "english": "arrive", "spanish": "llegar" },
+  { "english": "exercise", "spanish": "ejercitar" },
+  { "english": "move", "spanish": "mover" },
+  { "english": "ask", "spanish": "preguntar" },
+  { "english": "exist", "spanish": "existir" },
+  { "english": "need", "spanish": "necesitar" },
+  { "english": "attack", "spanish": "atacar" },
+  { "english": "expand", "spanish": "expandir" },
+  { "english": "notice", "spanish": "notar" },
+  { "english": "bake", "spanish": "hornear" },
+  { "english": "expect", "spanish": "esperar" },
+  { "english": "offer", "spanish": "ofrecer" },
+  { "english": "beg", "spanish": "rogar" },
+  { "english": "open", "spanish": "abrir" },
+  { "english": "behave", "spanish": "comportarse" },
+  { "english": "explode", "spanish": "explotar" },
+  { "english": "organize", "spanish": "organizar" },
+  { "english": "believe", "spanish": "creer" },
+  { "english": "fasten", "spanish": "abrocharse" },
+  { "english": "paint", "spanish": "pintar" },
+  { "english": "belong", "spanish": "pertenecer" },
+  { "english": "fear", "spanish": "temer" },
+  { "english": "participate", "spanish": "participar" },
+  { "english": "book", "spanish": "reservar" },
+  { "english": "fill", "spanish": "llenar" },
+  { "english": "plan", "spanish": "planear, planificar" },
+  { "english": "borrow", "spanish": "tomar prestado" },
+  { "english": "finish", "spanish": "terminar" },
+  { "english": "play", "spanish": "jugar" },
+  { "english": "breathe", "spanish": "respirar" },
+  { "english": "fire", "spanish": "disparar" },
+  { "english": "practice", "spanish": "practicar" },
+  { "english": "brush", "spanish": "cepillar" },
+  { "english": "fit", "spanish": "quedar, encajar" },
+  { "english": "prepare", "spanish": "preparar" },
+  { "english": "burn", "spanish": "quemar" },
+  { "english": "flow", "spanish": "fluir" },
+  { "english": "produce", "spanish": "producir" },
+  { "english": "calculate", "spanish": "calcular" },
+  { "english": "follow", "spanish": "seguir" },
+  { "english": "promise", "spanish": "prometer" },
+  { "english": "call", "spanish": "llamar" },
+  { "english": "guess", "spanish": "adivinar, suponer" },
+  { "english": "provide", "spanish": "proveer" },
+  { "english": "cancel", "spanish": "cancelar" },
+  { "english": "found", "spanish": "fundar" },
+  { "english": "qualify", "spanish": "cumplir los requisitos" },
+  { "english": "carry", "spanish": "llevar" },
+  { "english": "fry", "spanish": "freír" },
+  { "english": "rain", "spanish": "llover" },
+  { "english": "cause", "spanish": "causar" },
+  { "english": "gather", "spanish": "juntar" },
+  { "english": "realize", "spanish": "darse cuenta" },
+  { "english": "change", "spanish": "cambiar" },
+  { "english": "grab", "spanish": "agarrar" },
+  { "english": "receive", "spanish": "recibir" },
+  { "english": "charge", "spanish": "cobrar" },
+  { "english": "greet", "spanish": "saludar" },
+  { "english": "refuse", "spanish": "rechazar" },
+  { "english": "check", "spanish": "chequear" },
+  { "english": "harm", "spanish": "lastimar" },
+  { "english": "remember", "spanish": "recordar" },
+  { "english": "cheat", "spanish": "engañar" },
+  { "english": "happen", "spanish": "ocurrir" },
+  { "english": "remind", "spanish": "hacer acordar" },
+  { "english": "clean", "spanish": "limpiar" },
+  { "english": "hate", "spanish": "odiar" },
+  { "english": "repeat", "spanish": "repetir" },
+  { "english": "close", "spanish": "cerrar" },
+  { "english": "heal", "spanish": "curar" },
+  { "english": "report", "spanish": "reportar" },
+  { "english": "complain", "spanish": "quejarse" },
+  { "english": "heat", "spanish": "calentar" },
+  { "english": "require", "spanish": "requerir" },
+  { "english": "compete", "spanish": "competir" },
+  { "english": "help", "spanish": "ayudar" },
+  { "english": "return", "spanish": "regresar" },
+  { "english": "complete", "spanish": "completar" },
+  { "english": "hope", "spanish": "esperar" },
+  { "english": "rob", "spanish": "robar" },
+  { "english": "consider", "spanish": "considerar" },
+  { "english": "hunt", "spanish": "cazar" },
+  { "english": "scare", "spanish": "asustar" },
+  { "english": "cook", "spanish": "cocinar" },
+  { "english": "hurry", "spanish": "apurarse" },
+  { "english": "search", "spanish": "buscar" },
+  { "english": "copy", "spanish": "copiar" },
+  { "english": "identify", "spanish": "identificar" },
+  { "english": "smile", "spanish": "sonreír" },
+  { "english": "count", "spanish": "contar" },
+  { "english": "imagine", "spanish": "imaginar" },
+  { "english": "shout", "spanish": "gritar" },
+  { "english": "cry", "spanish": "llorar" },
+  { "english": "improve", "spanish": "mejorar" },
+  { "english": "smell", "spanish": "oler" },
+  { "english": "dance", "spanish": "bailar" },
+  { "english": "include", "spanish": "incluir" },
+  { "english": "snow", "spanish": "nevar" },
+  { "english": "decide", "spanish": "decidir" },
+  { "english": "increase", "spanish": "aumentar" },
+  { "english": "start", "spanish": "empezar" },
+  { "english": "decrease", "spanish": "disminuir" },
+  { "english": "inform", "spanish": "informar" },
+  { "english": "stay", "spanish": "quedarse" },
+  { "english": "deliver", "spanish": "entregar" },
+  { "english": "injure", "spanish": "lastimar" },
+  { "english": "stop", "spanish": "parar" },
+  { "english": "deny", "spanish": "negar" },
+  { "english": "interest", "spanish": "interesar" },
+  { "english": "study", "spanish": "estudiar" },
+  { "english": "destroy", "spanish": "destruir" },
+  { "english": "introduce", "spanish": "presentar, introducir" },
+  { "english": "supervise", "spanish": "supervisar" },
+  { "english": "develop", "spanish": "desarrollar" },
+  { "english": "invent", "spanish": "inventar" },
+  { "english": "talk", "spanish": "hablar" },
+  { "english": "die", "spanish": "morir" },
+  { "english": "invite", "spanish": "invitar" },
+  { "english": "taste", "spanish": "saborear" },
+  { "english": "disagree", "spanish": "disentir" },
+  { "english": "jog", "spanish": "trotar" },
+  { "english": "touch", "spanish": "tocar" },
+  { "english": "disappear", "spanish": "desaparecer" },
+  { "english": "join", "spanish": "unir(se)" },
+  { "english": "translate", "spanish": "traducir" },
+  { "english": "disapprove", "spanish": "oponerse" },
+  { "english": "judge", "spanish": "juzgar" },
+  { "english": "travel", "spanish": "viajar" },
+  { "english": "discover", "spanish": "descubrir" },
+  { "english": "jump", "spanish": "saltar" },
+  { "english": "try", "spanish": "probar" },
+  { "english": "dislike", "spanish": "desagradar" },
+  { "english": "kick", "spanish": "patear" },
+  { "english": "use", "spanish": "usar" },
+  { "english": "divide", "spanish": "dividir" },
+  { "english": "kill", "spanish": "matar" },
+  { "english": "visit", "spanish": "visitar" },
+  { "english": "doubt", "spanish": "dudar" },
+  { "english": "kiss", "spanish": "besar" },
+  { "english": "wait", "spanish": "esperar" },
+  { "english": "dream", "spanish": "soñar" },
+  { "english": "kneel", "spanish": "arrodillarse" },
+  { "english": "walk", "spanish": "caminar" },
+  { "english": "dress", "spanish": "vestirse" },
+  { "english": "knit", "spanish": "tejer" },
+  { "english": "want", "spanish": "querer" },
+  { "english": "drop", "spanish": "caerse" },
+  { "english": "knock", "spanish": "golpear" },
+  { "english": "watch", "spanish": "mirar" },
+  { "english": "educate", "spanish": "educar" },
+  { "english": "land", "spanish": "aterrizar" },
+  { "english": "wash", "spanish": "lavar" },
+  { "english": "enjoy", "spanish": "disfrutar" },
+  { "english": "last", "spanish": "durar" },
+  { "english": "wish", "spanish": "desear" },
+  { "english": "earn", "spanish": "ganar" },
+  { "english": "laugh", "spanish": "reír" },
+  { "english": "work", "spanish": "trabajar" },
+  { "english": "tidy up", "spanish": "ordenar" },
+  { "english": "wonder", "spanish": "maravillarse" },
+  { "english": "sorround", "spanish": "rodear" },
+  { "english": "step", "spanish": "dar un paso" },
+  { "english": "snore", "spanish": "roncar" }
+]
